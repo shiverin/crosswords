@@ -24,9 +24,6 @@ A Constraint Satisfaction Problem (CSP)-based model for solving crossword puzzle
 | **Programming**        | Python, OOP, command-line interface                          |
 | **AI Concepts**        | Constraint Satisfaction Problems, Backtracking, Inference    |
 | **Search Algorithms**  | AC-3, MRV, Degree Heuristic, LCV                             |
-| **Libraries Used**     | `PIL` (Python Imaging Library)                               |
-| **Software Design**    | Modular, class-based architecture                            |
-| **Problem Solving**    | Consistency checks, constraint propagation, search pruning   |
 
 ---
 
